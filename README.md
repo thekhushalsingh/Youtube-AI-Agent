@@ -76,4 +76,4 @@ youtube_ai_agent/
 
 ---
 
-Made with ❤️ by ChatGPT
+Made with ❤️ by Khushal Singh
