@@ -1,0 +1,18 @@
+{
+  "elevenlabs_api_key": "sk_e----------------------",
+  "voice": "---------------",  
+  "sambanova_api_key": "-------------------------------",
+  "pexels_api_key": "------------------------------",
+  "video": {
+    "slide_duration": 5,
+    "fps": 24,
+    "resolution": [
+      1280,
+      720
+    ]
+  },
+  "youtube": {
+    "privacy_status": "private",
+    "category_id": "27"
+  }
+}
